@@ -1,0 +1,25 @@
+# 虚拟环境（绝对不要传）
+.venv/
+venv/
+env/
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境变量和密钥（如果有）
+.env
+.env.local
+
+# 编辑器配置文件
+.vscode/
+.idea/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 未来可能产生的网页缓存/日志
+*.log
+crawl_cache/
